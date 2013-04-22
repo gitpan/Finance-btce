@@ -1,0 +1,26 @@
+---
+abstract: 'Perl extension for interfacing with the BTC-e bitcoin exchange'
+author:
+  - 'Benjamin Meyer <bmeyer@apple.com>'
+build_requires:
+  ExtUtils::MakeMaker: 0
+configure_requires:
+  ExtUtils::MakeMaker: 0
+dynamic_config: 0
+generated_by: 'ExtUtils::MakeMaker version 6.66, CPAN::Meta::Converter version 2.112621'
+license: unknown
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Finance-btce
+no_index:
+  directory:
+    - t
+    - inc
+requires:
+  Carp: 0
+  Digest::SHA: 0
+  JSON: 0
+  LWP::UserAgent: 0
+  Mozilla::CA: 0
+version: 0.01
