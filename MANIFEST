@@ -4,3 +4,5 @@ MANIFEST
 README
 t/Finance-btce.t
 lib/Finance/btce.pm
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)

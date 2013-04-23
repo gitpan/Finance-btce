@@ -3,7 +3,7 @@
    "author" : [
       "Benjamin Meyer <bmeyer@benjamindmeyer.com>"
    ],
-   "dynamic_config" : 0,
+   "dynamic_config" : 1,
    "generated_by" : "ExtUtils::MakeMaker version 6.66, CPAN::Meta::Converter version 2.112621",
    "license" : [
       "unknown"
@@ -42,5 +42,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.01"
+   "version" : "0.02"
 }
