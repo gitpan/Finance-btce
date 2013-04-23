@@ -1,7 +1,7 @@
 ---
 abstract: 'Perl extension for interfacing with the BTC-e bitcoin exchange'
 author:
-  - 'Benjamin Meyer <bmeyer@apple.com>'
+  - 'Benjamin Meyer <bmeyer@benjamindmeyer.com>'
 build_requires:
   ExtUtils::MakeMaker: 0
 configure_requires:
@@ -23,4 +23,5 @@ requires:
   JSON: 0
   LWP::UserAgent: 0
   Mozilla::CA: 0
+  WWW::Mechanize: 0
 version: 0.01
